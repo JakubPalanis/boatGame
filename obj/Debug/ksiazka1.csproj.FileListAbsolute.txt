@@ -1,0 +1,12 @@
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\bin\Debug\ksiazka1.exe.config
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\bin\Debug\ksiazka1.exe
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\bin\Debug\ksiazka1.pdb
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\obj\Debug\ksiazka1.csproj.AssemblyReference.cache
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\obj\Debug\ksiazka1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\obj\Debug\ksiazka1.Form1.resources
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\obj\Debug\ksiazka1.Properties.Resources.resources
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\obj\Debug\ksiazka1.csproj.GenerateResource.cache
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\obj\Debug\ksiazka1.csproj.CoreCompileInputs.cache
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\obj\Debug\ksiazka1.exe
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\obj\Debug\ksiazka1.pdb
+C:\Users\Jakub\Desktop\uczymysie\ksiazka1\ksiazka1\obj\Debug\ksiazka1.UserControl1.resources
